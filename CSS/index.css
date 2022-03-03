@@ -1,0 +1,25 @@
+.buttons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-heading,.footer-paragraph{
+    color: white;
+}
+.footer-hr{
+    border: 1px solid white;
+}
+.hr{
+    border: 2px solid yellowgreen;
+}
+.container{
+    text-align: justify;
+}
+.colOne{
+    background: #d5b666;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
